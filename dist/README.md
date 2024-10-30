@@ -36,4 +36,4 @@ N/A
 * Github: Thida612
 
 ## Demo
-https://drive.google.com/file/d/1lLoSas3ZU9z4M7sehcqBcopeChqwK51u/view?usp=drive_link
+https://drive.google.com/file/d/1lLoSas3ZU9z4M7sehcqBcopeChqwK51u/view?usp=sharing
